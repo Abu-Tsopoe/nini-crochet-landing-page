@@ -23,7 +23,7 @@ header, footer{
     width: 30%;
     height: 30%;
 }
-.nav-item:hover{
+.nav-link:hover{
     color: yellow;
 }
 /* Hero Section */
@@ -110,15 +110,18 @@ height: 100%;
 }
 
 .btn:hover, .address i:hover {
-    background-color: pink;
+    background-color: rgb(254, 125, 147);
     color: black;
 }
 .address li{
     list-style: none;
 }
+.form, .address{
+    background-color: pink;
+}
 /* Footer Section */
 footer {
-    margin-top: 50px;
+    margin-bottom: 0;
     
 }
 
