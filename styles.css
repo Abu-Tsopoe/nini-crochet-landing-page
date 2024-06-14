@@ -23,6 +23,9 @@ header, footer{
     width: 30%;
     height: 30%;
 }
+.nav-item:hover{
+    color: yellow;
+}
 /* Hero Section */
 .hero{
     text-align: center;
